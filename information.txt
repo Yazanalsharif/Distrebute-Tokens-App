@@ -1,0 +1,8 @@
+fees: 1.018 BNB => 290 usdt
+fees: 0.7293 BNB => 200 usdt
+1 day => 3440 transaction 
+2 day => 
+
+////////
+
+

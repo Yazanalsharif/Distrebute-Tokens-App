@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "excel4node": "^1.7.2",
     "read-excel-file": "^5.2.26",
     "web3": "^1.6.1"
   }
